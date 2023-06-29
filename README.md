@@ -1,2 +1,0 @@
-# MultiPlus
-Multiplos módulos CPlus
